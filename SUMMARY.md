@@ -1,5 +1,7 @@
 # Table of contents
 
+## Welcome
+
 ## Active Directory
 
 * [Active Directory Attacks](README.md)
@@ -17,9 +19,10 @@
   * [Squid](cortex/xdr-dashboards/squid.md)
   * [Umbrella](cortex/xdr-dashboards/umbrella.md)
 
-## PAN OS
+## Paloalto Networks
 
-* [Debug Commands](pan-os/debug.md)
-* [User-ID Agent](pan-os/userid.md)
-* [Data Redistribution](pan-os/redis.md)
-* [PANOS API (Python SDK)](pan-os/panos-api-python-sdk.md)
+* [PANOS](./paloaltonetworks/README.md)
+  * [Debug Commands](pan-os/debug.md)
+  * [User-ID Agent](pan-os/userid.md)
+  * [Data Redistribution](pan-os/redis.md)
+  * [PANOS API (Python SDK)](pan-os/panos-api-python-sdk.md)
