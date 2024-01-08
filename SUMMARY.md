@@ -22,7 +22,7 @@
 ## Paloalto Networks
 
 * [PANOS](./paloaltonetworks/README.md)
-  * [Debug Commands](pan-os/debug.md)
-  * [User-ID Agent](pan-os/userid.md)
-  * [Data Redistribution](pan-os/redis.md)
-  * [PANOS API (Python SDK)](pan-os/panos-api-python-sdk.md)
+  * [Debug Commands](./paloaltonetworks/debug.md)
+  * [User-ID Agent](./paloaltonetworks/userid.md)
+  * [Data Redistribution](./paloaltonetworks/redis.md)
+  * [PANOS API (Python SDK)](./paloaltonetworks/panos-api-python-sdk.md)
