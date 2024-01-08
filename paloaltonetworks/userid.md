@@ -21,7 +21,7 @@ Fill your domain information as follow:
 * Password: service account password
 * Kerberos Server profile: create new
 
-### Kerberos Server profile:
+### Kerberos Server profile
 
 Choose a Profile name and declare your domain controllers that your Firewall can reach.
 
