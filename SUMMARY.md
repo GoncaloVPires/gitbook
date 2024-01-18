@@ -14,6 +14,7 @@
 
 * [PANOS](./paloaltonetworks/README.md)
   * [Debug Commands](./paloaltonetworks/debug.md)
+  * [CLI Commands](./paloaltonetworks/clicommands.md)
   * [User-ID Agent](./paloaltonetworks/userid.md)
   * [Data Redistribution](./paloaltonetworks/redis.md)
   * [PANOS API (Python SDK)](./paloaltonetworks/panos-api-python-sdk.md)
