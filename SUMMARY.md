@@ -19,6 +19,9 @@
   * [Data Redistribution](./paloaltonetworks/redis.md)
   * [PANOS API (Python SDK)](./paloaltonetworks/panos-api-python-sdk.md)
 
+* [SASE](SASE/README.md)
+  * [Tunnel and Proxy Mode](./SASE/tunnel_proxy.md)
+
 * [XDR Dashboards](cortex/xdr-dashboards/README.md)
   * [Checkpoint](cortex/xdr-dashboards/checkpoint.md)
   * [Active Directory](cortex/xdr-dashboards/activedirectory.md)
